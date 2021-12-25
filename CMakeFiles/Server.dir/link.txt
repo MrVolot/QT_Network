@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Server.dir/Server_autogen/mocs_compilation.cpp.o CMakeFiles/Server.dir/main.cpp.o CMakeFiles/Server.dir/server.cpp.o CMakeFiles/Server.dir/connection_handler.cpp.o -o Server  /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.12.8 
