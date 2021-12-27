@@ -26,6 +26,6 @@ add_executable(Server
   server.cpp
   connection_handler.cpp
 )
-target_link_libraries(Server Qt5::Core ${Boost_LIBRARIES})
+target_link_libraries(Server Qt5::Core ${Boost_LIBRARIES} pthread)
 #target_link_libraries(asio INTERFACE pthread)
 #target_compile_definitions(asio PUBLIC ASIO_STANDALONE)

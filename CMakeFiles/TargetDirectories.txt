@@ -1,4 +1,0 @@
-/home/kyrylo/Documents/network/server/Server/CMakeFiles/Server.dir
-/home/kyrylo/Documents/network/server/Server/CMakeFiles/edit_cache.dir
-/home/kyrylo/Documents/network/server/Server/CMakeFiles/rebuild_cache.dir
-/home/kyrylo/Documents/network/server/Server/CMakeFiles/Server_autogen.dir

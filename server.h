@@ -1,11 +1,13 @@
 #pragma once
 #include <boost/asio.hpp>
+#include <boost/bind.hpp>
 #include "connection_handler.h"
 
 using namespace boost::asio;
 
 class Server
 {
+    boost::asio::io_service& service_;
     boost::asio::ip::tcp::acceptor acceptor_;
 
 public:
